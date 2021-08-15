@@ -1,0 +1,2 @@
+# BGMCache
+Bangumi Cache
